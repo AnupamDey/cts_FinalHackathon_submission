@@ -22,7 +22,6 @@ public class Main {
 		JSONObject mems = new JSONObject();
 		JSONObject vals = new JSONObject();
 		JSONObject res = new JSONObject();
-//		List<Double> list = new ArrayList<Double>();
 		while((str = br.readLine()) != null) {
 			i++;
 			if(i % 2 == 0) {
